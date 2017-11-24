@@ -12,9 +12,12 @@ REQUISITOS:
 * Python https://www.python.org/downloads/
 
 Windows:
+
   * CodeBlocks http://www.codeblocks.org/downloads
   * Ademas se debe configurar la biblioteca OpenMP que permite realizar la paralelización en C. 
+  
 Linux:
+
   * No es necesario instalar OpenMP pues esta ya es parte del compilador GCC, mas bien se debe verificar que esta configurado.
  
  CODIGO:
